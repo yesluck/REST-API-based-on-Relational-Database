@@ -1,7 +1,3 @@
-README for COMS W4111 HW2
-Zikun Lin (zl2737)
-
-
 Part 1: Files Description
 
 SimpleFlask.py:		Simple Flask implement

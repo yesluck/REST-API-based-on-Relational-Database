@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "player": "willite01",
+            "playerid": "baumafr01",
+            "firstYear": "1955",
+            "lastYear": "1959",
+            "countOfSeason": 5
+        },
+        {
+            "player": "willite01",
+            "playerid": "bentoal01",
+            "firstYear": "1952",
+            "lastYear": "1952",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "berbelo01",
+            "firstYear": "1958",
+            "lastYear": "1958",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "bergebo01",
+            "firstYear": "1939",
+            "lastYear": "1939",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "bergmo01",
+            "firstYear": "1939",
+            "lastYear": "1939",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "bevanha01",
+            "firstYear": "1952",
+            "lastYear": "1952",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "bollimi01",
+            "firstYear": "1952",
+            "lastYear": "1957",
+            "countOfSeason": 6
+        },
+        {
+            "player": "willite01",
+            "playerid": "boonera01",
+            "firstYear": "1960",
+            "lastYear": "1960",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "borlato01",
+            "firstYear": "1960",
+            "lastYear": "1960",
+            "countOfSeason": 1
+        },
+        {
+            "player": "willite01",
+            "playerid": "boudrlo01",
+            "firstYear": "1951",
+            "lastYear": "1952",
+            "countOfSeason": 2
+        }
+    ],
+    "links": [
+        {
+            "previous": "/api/teammates/willite01?offset=0&limit=10"
+        },
+        {
+            "current": "/api/teammates/willite01?offset=10&limit=10"
+        },
+        {
+            "next": "/api/teammates/willite01?offset=20&limit=10"
+        }
+    ]
+}

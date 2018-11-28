@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "nameLast": "Adams",
+            "nameFirst": "Terry",
+            "playerid": "adamste01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "19",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 1,
+            "errors": 1
+        },
+        {
+            "nameLast": "Alvarez",
+            "nameFirst": "Abe",
+            "playerid": "alvarab01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "1",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 0,
+            "errors": 0
+        },
+        {
+            "nameLast": "Anderson",
+            "nameFirst": "Jimmy",
+            "playerid": "anderji02",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "5",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 0,
+            "errors": 0
+        },
+        {
+            "nameLast": "Arroyo",
+            "nameFirst": "Bronson",
+            "playerid": "arroybr01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "32",
+            "hits": "0",
+            "abs": "6",
+            "attempts": 16,
+            "errors": 2
+        },
+        {
+            "nameLast": "Astacio",
+            "nameFirst": "Pedro",
+            "playerid": "astacpe01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "5",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 0,
+            "errors": 0
+        },
+        {
+            "nameLast": "Bellhorn",
+            "nameFirst": "Mark",
+            "playerid": "bellhma01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "138",
+            "hits": "138",
+            "abs": "523",
+            "attempts": 383,
+            "errors": 14
+        },
+        {
+            "nameLast": "Brown",
+            "nameFirst": "Jamie",
+            "playerid": "brownja04",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "4",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 0,
+            "errors": 0
+        },
+        {
+            "nameLast": "Cabrera",
+            "nameFirst": "Orlando",
+            "playerid": "cabreor01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "58",
+            "hits": "67",
+            "abs": "228",
+            "attempts": 147,
+            "errors": 8
+        },
+        {
+            "nameLast": "Castillo",
+            "nameFirst": "Frank",
+            "playerid": "castifr01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "2",
+            "hits": "0",
+            "abs": "0",
+            "attempts": 0,
+            "errors": 0
+        },
+        {
+            "nameLast": "Crespo",
+            "nameFirst": "Cesar",
+            "playerid": "crespce01",
+            "teamid": "BOS",
+            "yearid": "2004",
+            "g_all": "52",
+            "hits": "13",
+            "abs": "79",
+            "attempts": 49,
+            "errors": 3
+        }
+    ],
+    "links": [
+        {
+            "current": "/api/roster?teamid=BOS&yearid=2004&offset=0&limit=10"
+        },
+        {
+            "next": "/api/roster?teamid=BOS&yearid=2004&offset=10&limit=10"
+        }
+    ]
+}

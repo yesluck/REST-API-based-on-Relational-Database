@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1939",
+            "g_all": "149",
+            "hits": "185",
+            "ABs": "565",
+            "Assists": 11,
+            "errors": 19
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1940",
+            "g_all": "144",
+            "hits": "193",
+            "ABs": "561",
+            "Assists": 13,
+            "errors": 13
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1940",
+            "g_all": "144",
+            "hits": "193",
+            "ABs": "561",
+            "Assists": 2,
+            "errors": 0
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1941",
+            "g_all": "143",
+            "hits": "185",
+            "ABs": "456",
+            "Assists": 11,
+            "errors": 11
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1942",
+            "g_all": "150",
+            "hits": "186",
+            "ABs": "522",
+            "Assists": 15,
+            "errors": 4
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1946",
+            "g_all": "150",
+            "hits": "176",
+            "ABs": "514",
+            "Assists": 7,
+            "errors": 10
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1947",
+            "g_all": "156",
+            "hits": "181",
+            "ABs": "528",
+            "Assists": 10,
+            "errors": 9
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1948",
+            "g_all": "137",
+            "hits": "188",
+            "ABs": "509",
+            "Assists": 9,
+            "errors": 5
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1949",
+            "g_all": "155",
+            "hits": "194",
+            "ABs": "566",
+            "Assists": 12,
+            "errors": 6
+        },
+        {
+            "playerid": "willite01",
+            "teamid": "BOS",
+            "yearid": "1950",
+            "g_all": "89",
+            "hits": "106",
+            "ABs": "334",
+            "Assists": 7,
+            "errors": 8
+        }
+    ],
+    "links": [
+        {
+            "current": "/api/people/willite01/career_stats?offset=0&limit=10"
+        },
+        {
+            "next": "/api/people/willite01/career_stats?offset=10&limit=10"
+        }
+    ]
+}
